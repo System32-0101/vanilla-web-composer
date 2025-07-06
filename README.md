@@ -7,6 +7,8 @@
 
 ## 🖼
 ![VanillaComposer screenshot](https://github.com/user-attachments/assets/11d05b92-bc19-4673-8141-3cbca5789492)
+![VanillaComposer screenshot 2](https://github.com/user-attachments/assets/98c8fa83-a976-4341-b2d1-c270fd013226)
+
 
 <!-- Language Selector -->
 **🌐 Language / Idioma:**
