@@ -4,6 +4,10 @@
   <img src="assets/img/logo.png" alt="VanillaComposer Logo" width="200" height="200">
 </div>
 
+
+## 🖼
+![VanillaComposer screenshot](https://github.com/user-attachments/assets/11d05b92-bc19-4673-8141-3cbca5789492)
+
 <!-- Language Selector -->
 **🌐 Language / Idioma:**
 - [🇺🇸 English](#english-documentation)
